@@ -5,6 +5,10 @@
 
 main() {
 
+@implementation UILabel : UIKit;
+
+@property (nonatomic, copy, readwrite) NSString *text;
+
 
 
 }
