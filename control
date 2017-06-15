@@ -1,0 +1,9 @@
+Package: Left Handed Cigs
+Name: Giggle Smoke
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Josh
+Author: Josh
+Section: Tweaks
